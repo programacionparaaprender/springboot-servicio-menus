@@ -1,4 +1,4 @@
-package com.formacionbdi.springboot.app.productos.controllers;
+package com.formacionbdi.springboot.app.menus.controllers;
 
 import java.util.List;
 import java.util.stream.Collectors;
@@ -20,7 +20,7 @@ import org.springframework.web.bind.annotation.ResponseStatus;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.formacionbdi.springboot.app.commons.models.entity.Producto;
-import com.formacionbdi.springboot.app.productos.models.service.IProductoService;
+import com.formacionbdi.springboot.app.menus.models.service.IProductoService;
 
 @RestController
 @RequestMapping("/producto") //localhost:8080/usuarios

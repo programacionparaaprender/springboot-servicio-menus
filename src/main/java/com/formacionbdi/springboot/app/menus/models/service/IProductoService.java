@@ -1,4 +1,4 @@
-package com.formacionbdi.springboot.app.productos.models.service;
+package com.formacionbdi.springboot.app.menus.models.service;
 
 import java.util.List;
 

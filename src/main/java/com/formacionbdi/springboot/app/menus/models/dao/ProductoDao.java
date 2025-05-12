@@ -1,4 +1,4 @@
-package com.formacionbdi.springboot.app.productos.models.dao;
+package com.formacionbdi.springboot.app.menus.models.dao;
 
 import org.springframework.data.repository.CrudRepository;
 
